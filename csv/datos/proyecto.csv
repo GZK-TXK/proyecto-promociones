@@ -1,0 +1,11 @@
+id_proyecto;nombre;id_vertical
+1;HLF;1
+2;EDA;1
+3;BBDD;1
+4;ML;1
+5;Deployment;1
+6;WebDev;2
+7;FrontEnd;2
+8;Backend;2
+9;React;2
+10;FullStack;2
