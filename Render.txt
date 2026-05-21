@@ -2,5 +2,4 @@ Hostname			dpg-d872n0u7r5hc738dpfng-a   (dpg-d872n0u7r5hc738dpfng-a.oregon-postg
 Port				5432
 Database			proyecto_bbdd_421b
 Username			proyecto_bbdd_user
-Password			JYpFWDJQ9zY44uoSgX5YpuZ0n5gxzBku
 External Database URL		postgresql://proyecto_bbdd_user:JYpFWDJQ9zY44uoSgX5YpuZ0n5gxzBku@dpg-d872n0u7r5hc738dpfng-a.oregon-postgres.render.com/proyecto_bbdd_421b
