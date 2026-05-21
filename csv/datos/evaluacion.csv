@@ -1,0 +1,261 @@
+id_evaluacion;id_matricula;id_proyecto;resultado
+1;1;1;Apto
+2;1;2;No Apto
+3;1;3;Apto
+4;1;4;Apto
+5;1;5;Apto
+6;2;1;No Apto
+7;2;2;Apto
+8;2;3;No Apto
+9;2;4;Apto
+10;2;5;Apto
+11;3;1;Apto
+12;3;2;Apto
+13;3;3;No Apto
+14;3;4;Apto
+15;3;5;Apto
+16;4;1;No Apto
+17;4;2;Apto
+18;4;3;No Apto
+19;4;4;No Apto
+20;4;5;Apto
+21;5;1;Apto
+22;5;2;No Apto
+23;5;3;No Apto
+24;5;4;Apto
+25;5;5;No Apto
+26;6;1;Apto
+27;6;2;Apto
+28;6;3;Apto
+29;6;4;Apto
+30;6;5;Apto
+31;7;1;No Apto
+32;7;2;Apto
+33;7;3;No Apto
+34;7;4;Apto
+35;7;5;Apto
+36;8;1;No Apto
+37;8;2;No Apto
+38;8;3;Apto
+39;8;4;Apto
+40;8;5;Apto
+41;9;1;Apto
+42;9;2;Apto
+43;9;3;Apto
+44;9;4;Apto
+45;9;5;Apto
+46;10;1;Apto
+47;10;2;No Apto
+48;10;3;Apto
+49;10;4;Apto
+50;10;5;No Apto
+51;11;1;Apto
+52;11;2;No Apto
+53;11;3;No Apto
+54;11;4;Apto
+55;11;5;Apto
+56;12;1;Apto
+57;12;2;Apto
+58;12;3;Apto
+59;12;4;Apto
+60;12;5;Apto
+61;13;1;Apto
+62;13;2;No Apto
+63;13;3;Apto
+64;13;4;Apto
+65;13;5;Apto
+66;14;1;Apto
+67;14;2;Apto
+68;14;3;Apto
+69;14;4;Apto
+70;14;5;Apto
+71;15;1;No Apto
+72;15;2;Apto
+73;15;3;Apto
+74;15;4;Apto
+75;15;5;Apto
+76;16;1;Apto
+77;16;2;Apto
+78;16;3;Apto
+79;16;4;Apto
+80;16;5;Apto
+81;17;1;Apto
+82;17;2;Apto
+83;17;3;Apto
+84;17;4;No Apto
+85;17;5;Apto
+86;18;1;Apto
+87;18;2;No Apto
+88;18;3;Apto
+89;18;4;Apto
+90;18;5;Apto
+91;19;1;Apto
+92;19;2;No Apto
+93;19;3;Apto
+94;19;4;Apto
+95;19;5;Apto
+96;20;1;Apto
+97;20;2;Apto
+98;20;3;Apto
+99;20;4;Apto
+100;20;5;Apto
+101;21;1;Apto
+102;21;2;No Apto
+103;21;3;Apto
+104;21;4;Apto
+105;21;5;Apto
+106;22;1;Apto
+107;22;2;No Apto
+108;22;3;No Apto
+109;22;4;Apto
+110;22;5;No Apto
+111;23;1;No Apto
+112;23;2;Apto
+113;23;3;Apto
+114;23;4;Apto
+115;23;5;Apto
+116;24;1;Apto
+117;24;2;Apto
+118;24;3;Apto
+119;24;4;No Apto
+120;24;5;Apto
+121;25;1;Apto
+122;25;2;No Apto
+123;25;3;Apto
+124;25;4;Apto
+125;25;5;Apto
+126;26;6;No Apto
+127;26;7;No Apto
+128;26;8;No Apto
+129;26;9;Apto
+130;26;10;Apto
+131;27;6;Apto
+132;27;7;Apto
+133;27;8;No Apto
+134;27;9;Apto
+135;27;10;Apto
+136;28;6;No Apto
+137;28;7;No Apto
+138;28;8;Apto
+139;28;9;No Apto
+140;28;10;No Apto
+141;29;6;Apto
+142;29;7;No Apto
+143;29;8;No Apto
+144;29;9;Apto
+145;29;10;Apto
+146;30;6;Apto
+147;30;7;Apto
+148;30;8;Apto
+149;30;9;Apto
+150;30;10;Apto
+151;31;6;Apto
+152;31;7;Apto
+153;31;8;No Apto
+154;31;9;No Apto
+155;31;10;Apto
+156;32;6;Apto
+157;32;7;Apto
+158;32;8;No Apto
+159;32;9;Apto
+160;32;10;Apto
+161;33;6;No Apto
+162;33;7;No Apto
+163;33;8;Apto
+164;33;9;No Apto
+165;33;10;No Apto
+166;34;6;Apto
+167;34;7;No Apto
+168;34;8;No Apto
+169;34;9;Apto
+170;34;10;Apto
+171;35;6;Apto
+172;35;7;Apto
+173;35;8;Apto
+174;35;9;Apto
+175;35;10;Apto
+176;36;6;No Apto
+177;36;7;No Apto
+178;36;8;No Apto
+179;36;9;Apto
+180;36;10;Apto
+181;37;6;Apto
+182;37;7;Apto
+183;37;8;Apto
+184;37;9;Apto
+185;37;10;Apto
+186;38;6;No Apto
+187;38;7;Apto
+188;38;8;Apto
+189;38;9;Apto
+190;38;10;No Apto
+191;39;6;Apto
+192;39;7;No Apto
+193;39;8;Apto
+194;39;9;No Apto
+195;39;10;Apto
+196;40;6;No Apto
+197;40;7;Apto
+198;40;8;Apto
+199;40;9;Apto
+200;40;10;Apto
+201;41;6;Apto
+202;41;7;Apto
+203;41;8;Apto
+204;41;9;Apto
+205;41;10;No Apto
+206;42;6;Apto
+207;42;7;No Apto
+208;42;8;Apto
+209;42;9;No Apto
+210;42;10;Apto
+211;43;6;Apto
+212;43;7;Apto
+213;43;8;Apto
+214;43;9;Apto
+215;43;10;No Apto
+216;44;6;No Apto
+217;44;7;Apto
+218;44;8;Apto
+219;44;9;No Apto
+220;44;10;Apto
+221;45;6;Apto
+222;45;7;Apto
+223;45;8;No Apto
+224;45;9;Apto
+225;45;10;Apto
+226;46;6;Apto
+227;46;7;Apto
+228;46;8;No Apto
+229;46;9;No Apto
+230;46;10;No Apto
+231;47;6;Apto
+232;47;7;Apto
+233;47;8;Apto
+234;47;9;Apto
+235;47;10;Apto
+236;48;6;No Apto
+237;48;7;No Apto
+238;48;8;No Apto
+239;48;9;Apto
+240;48;10;No Apto
+241;49;6;Apto
+242;49;7;Apto
+243;49;8;Apto
+244;49;9;Apto
+245;49;10;Apto
+246;50;6;No Apto
+247;50;7;Apto
+248;50;8;Apto
+249;50;9;Apto
+250;50;10;Apto
+251;51;6;No Apto
+252;51;7;Apto
+253;51;8;Apto
+254;51;9;Apto
+255;51;10;Apto
+256;52;6;No Apto
+257;52;7;No Apto
+258;52;8;Apto
+259;52;9;No Apto
+260;52;10;Apto
